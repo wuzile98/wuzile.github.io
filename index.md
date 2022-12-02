@@ -16,7 +16,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
+[Brewerytown](/pdf/Brewerytown.pdf)
+<img src="images/test.jpg?raw=true"/>
+[Here I want to make a brief intro to the work above]
+Here I want to make a brief intro to the work above
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
