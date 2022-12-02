@@ -1,10 +1,10 @@
 title: Zile Wu # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/logo1.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br> Hi! I am Zile Wu! <br>
   Second description 
-  <br><br>
+  <br> I am a graduate student from MUSA at Upenn <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
